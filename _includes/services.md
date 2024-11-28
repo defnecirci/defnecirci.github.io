@@ -5,8 +5,8 @@
 <ul style="margin:0 0 5px;">
   <li>RMachine Learning for Life and Material Science Workshop</li>
   <li>Computational Materials Science</li>
-  </li>Integrating Materials and Manufacturing Innovation</li>
-  </li>Data in Brief</li>
+  <li>Integrating Materials and Manufacturing Innovation</li>
+  <li>Data in Brief</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Organizer and Volunteer Roles</h4>

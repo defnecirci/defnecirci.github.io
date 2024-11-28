@@ -12,8 +12,8 @@ I am interested in the application of multimodal large language models (LLMs) in
 
 ## News
 
-- **[Dec 2024]** Will be presenting ‘Information extraction from diverse materials science charts/plots’ at MRS 2024 in Boston. Come say hi!
-- **[Dec 2024]** Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry is on [Arxiv](https://arxiv.org/pdf/2411.15221).
+- **[Dec 2024]** Will be presenting ‘Information extraction from diverse materials science charts/plots’ at MRS in Boston. Come say hi!
+- **[Dec 2024]** ‘Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry is on [Arxiv](https://arxiv.org/pdf/2411.15221)’.
 - **[Dec 2024]** Attended EMNLP 2024 in Miami.
 - **[May 2024]** Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project [MaSTeA](https://x.com/DCirci/status/1788751982913589420), an automated system focused on evaluating the effectiveness of LLMs by testing their performance on materials science questions
 - **[Apr 2024]** Presented ‘Using Large Language Models for Data Extraction from Tables in Materials Literature ’ at the [SouthNLP Symposium](https://southnlp.github.io/southnlp2024/). You can find the poster [here](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-45.pdf).

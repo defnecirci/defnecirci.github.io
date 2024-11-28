@@ -12,7 +12,16 @@ I am interested in the application of multimodal large language models (LLMs) in
 
 ## News
 
-- **[Nov. 2024]** Coming soon..
+- **[Dec 2024]** Will be presenting ‘Information extraction from diverse materials science charts/plots’ at MRS 2024 in Boston. Come say hi!
+- **[Dec 2024]** Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry is on [Arxiv](https://arxiv.org/pdf/2411.15221).
+- **[Dec 2024]** Attended EMNLP 2024 in Miami.
+- **[May 2024]** Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project [MaSTeA](https://x.com/DCirci/status/1788751982913589420), an automated system focused on evaluating the effectiveness of LLMs by testing their performance on materials science questions
+- **[Apr 2024]** Presented ‘Using Large Language Models for Data Extraction from Tables in Materials Literature ’ at the [SouthNLP Symposium](https://southnlp.github.io/southnlp2024/). You can find the poster [here](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-45.pdf).
+- **[Feb 2024]** Presented ‘Using Large Language Models to Mine Materials Literature’ at Materials Research Data Alliance (MARDA) Annual Meeting. The presentation in available on [YouTube](https://www.youtube.com/watch?v=3a4DfTXi5Js&t=758s).
+- **[Dec 2023]** Presented ‘Retrieval of Synthesis Parameters of Polymer Nanocomposites Using LLMs’ at [AI4MAT Workshop](https://sites.google.com/view/ai4mat/ai4mat-2023/accepted-work?authuser=0) at NeurIPS in New Orleans and [ML4Molecules Workshop](https://moleculediscovery.github.io/workshop2023/).
+- **[Nov 2023]** Attended OpenAI Developers Conference in San Francisco
+- **[Aug 2022]** Got a full-tuition and stipend suppport from [AI for Understanding and Designing Materials](https://aim-nrt.pratt.duke.edu/) program
+- **[Aug 2022]** Started PhD at Duke.
 
 
 {% include_relative _includes/publications.md %}

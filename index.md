@@ -20,8 +20,8 @@ I am interested in the application of multimodal large language models (LLMs) in
 - **[Feb 2024]** Presented ‘Using Large Language Models to Mine Materials Literature’ at Materials Research Data Alliance (MARDA) Annual Meeting. The presentation is available on [YouTube](https://www.youtube.com/watch?v=3a4DfTXi5Js&t=758s).
 - **[Dec 2023]** Presented ‘Retrieval of Synthesis Parameters of Polymer Nanocomposites Using LLMs’ at [AI4MAT Workshop](https://sites.google.com/view/ai4mat/ai4mat-2023/accepted-work?authuser=0) at NeurIPS in New Orleans and [ML4Molecules Workshop](https://moleculediscovery.github.io/workshop2023/).
 - **[Oct 2023]** [Interviewed](https://www.youtube.com/watch?v=ex4b9qQdv_g&t=3s) by the Materials Research Data Alliance (MARDA) on building the future of materials research.
-- **[Nov 2023]** Attended OpenAI Developers Conference in San Francisco
-- **[Aug 2022]** Got a full-tuition and stipend suppport from [AI for Understanding and Designing Materials](https://aim-nrt.pratt.duke.edu/) program
+- **[Nov 2023]** Attended OpenAI Developers Conference in San Francisco.
+- **[Aug 2022]** Got a full-tuition and stipend suppport from [AI for Understanding and Designing Materials](https://aim-nrt.pratt.duke.edu/) program.
 - **[Aug 2022]** Started PhD at Duke.
 
 

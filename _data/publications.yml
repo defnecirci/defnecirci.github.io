@@ -1,22 +1,60 @@
 main:
+  - title: Evaluating Morphological Compositional Generalization in Large Language Models
+    authors: Ismayilzada, M., <strong>Circi, D.</strong>, Saleva J., Sirin, H., Koksal, A., Dhingra, B., Bosselut A., Plas, L, Ataman, D.
+    conference_short: Preprint
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2410.12656
+    image: ./assets/img/teaser_example_1.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+
+  - title: Extracting Materials Science Data from Scientific Tables
+    authors: <strong>Circi, D.</strong>, Khalighinejad, G., Chen, A., Dhingra, B., & Brinson, L.
+    conference_short: Language + Molecules at ACL
+    conference: Language + Molecules Workshop at ACL, 2024
+    pdf: https://openreview.net/pdf?id=KzVJFYLCtt
+    code: https://github.com/defnecirci/MatSciTableExtract
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: How Well Do Large Language Models Understand Tables in Materials Science?
+    authors: <strong>Circi, D.</strong>, Khalighinejad, G., Chen, A., Dhingra, B., & Brinson, L.
+    conference_short: IMMI
+    conference: Integrating Materials and Manufacturing Innovation, 2024
+    pdf: https://link.springer.com/article/10.1007/s40192-024-00362-6
+    code: https://github.com/defnecirci/MatSciTableExtract
+    image: ./assets/img/teaser_example_3.png
+
+
+  - title: Retrieval of Synthesis Parameters of Polymer Nanocomposites Using LLMs
+    authors: <strong>Circi, D.</strong>, Khalighinejad, G., Badhwar, S., Dhingra, B., & Brinson, L.
+    conference_short: AI4Materials at NeurIPS
+    conference: AI4Materials Workshop at NeurIPS, 2023
+    pdf: https://openreview.net/pdf?id=qpQr8px2Pz
+    image: ./assets/img/teaser_example_4.png
+
+  - title: 14 Examples of How LLMs Can Transform Materials Science and Chemistry
+    authors: Jablonka, K.M., Ai, Q., Al-Feghali, A., Badhwar, S., Bocarsly, J.D., Bran, A.M., Bringuier, S., Brinson, L.C., Choudhary, K., <strong>Circi, D.</strong>, & Cox, S. et al.
+    conference_short: Digital Discovery
+    conference: Digital Discovery, 2023
+    pdf: https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00113j
+    code: https://github.com/defnecirci/InsightGraph
+    image: ./assets/img/teaser_example_5.png
+    notes: Won first place!
+
+  - title: The Mutation Profile of SARS-CoV-2 Is Primarily Shaped by the Host Antiviral Defense
+    authors: Azgari, C., Kilinc, Z., Turhan, B., <strong>Circi, D.</strong>., & Adebali, O.
+    conference_short: Viruses
+    conference: Viruses, 2021
+    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7999997/
+    code: https://github.com/CompGenomeLab/SARS-CoV-2_Mutational_Profile
+    image: ./assets/img/teaser_example_6.png
+
+
+  - title: Phylogenetic Analysis of SARS-CoV-2 Genomes in Turkey
+    authors: Adebali, O., Bircan, A., <strong>Circi, D.</strong>, Islek, B., Kilinc, Z., Selcuk, B., & Turhan, B.
+    conference_short: Turkish Journal of Biology
+    conference: Turkish Journal of Biology, 2020
+    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7314511/
+    code: [Insert code link here]
+    image: ./assets/img/teaser_example_7.png
+    news: https://www.youtube.com/watch?v=i1s6NCV9KYs

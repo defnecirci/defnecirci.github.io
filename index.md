@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Duke University. I am very fortunate to be advised by Prof. [Cate Brinson](https://brinsonlab.pratt.duke.edu/) and Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was an undergraduate student in materials science and computer science at Sabanci University.
+
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am interested in the application of multimodal large language models (LLMs) in science, with a focus on knowledge extraction, question answering, and reasoning from scientific literature. Currently, I am working on extracting complex information from diverse scientific data sources, including charts, tables, and text, and evaluating LLM performance in these tasks. My goal is to automate the extraction of insights from scientific articles at scale and build comprehensive knowledge graphs and databases to accelerate discoveries in materials science. Additionally, I am interested in applying machine learning to materials property prediction tasks.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** Coming soon..
+
 
 {% include_relative _includes/publications.md %}
 

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Duke University. I am very fortunate to be advised by Prof. [Cate Brinson](https://brinsonlab.pratt.duke.edu/) and Prof. [Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). Prior to starting my PhD, I was an undergraduate student in materials science and computer science at Sabanci University.
+I am a Ph.D. candidate at Duke University. I am very fortunate to be advised by Prof. [Cate Brinson](https://brinsonlab.pratt.duke.edu/). Prior to starting my PhD, I was an undergraduate student in materials science and computer science at Sabanci University.
 
 
 ## Research Interests

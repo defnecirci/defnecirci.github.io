@@ -13,7 +13,7 @@ If you're interested in discussing research ideas or just want to chat, please r
 
 ## News
 
-- **[Dec 2024]** Will be presenting ‘Information extraction from diverse materials science charts/plots’ at MRS in Boston. Come say hi!
+- **[Dec 2024]** Presented ‘Information extraction from diverse materials science charts/plots’ at MRS in Boston.
 - **[Dec 2024]** ‘Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry’ is on [Arxiv](https://arxiv.org/pdf/2411.15221).
 - **[Dec 2024]** Attended EMNLP 2024 in Miami.
 - **[May 2024]** Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project [MaSTeA](https://x.com/DCirci/status/1788751982913589420).

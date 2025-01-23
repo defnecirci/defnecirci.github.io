@@ -1,8 +1,8 @@
 main:
   - title: Evaluating Morphological Compositional Generalization in Large Language Models
     authors: Ismayilzada, M., <strong>Circi, D.</strong>, Saleva J., Sirin, H., Koksal, A., Dhingra, B., Bosselut A., Plas, L, Ataman, D.
-    conference_short: Preprint
-    conference: arXiv
+    conference_short: NAACL
+    conference: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
     pdf: https://arxiv.org/pdf/2410.12656
     image: ./assets/img/teaser_example_1.png
 

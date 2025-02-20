@@ -15,7 +15,7 @@
 <ul style="margin:0 0 5px;">
   <li>2024-2025: AI for Designing Materials Program Guest Speaker Committee Chair
     <details>
-      <summary>👥 View PreviousGuest Speakers</summary>
+      <summary>👥 View Previous Guest Speakers</summary>
       <ul>
         <li>Shruti Badhwar (Entrepreneur)</li>
         <li>Gowoon Cheon (Research Scientist at Google DeepMind)</li>

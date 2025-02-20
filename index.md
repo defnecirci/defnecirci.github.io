@@ -31,7 +31,7 @@ If you're interested in discussing research ideas or just want to chat, please c
 When I'm not working on research, you can find me:
 - 🧗‍♀️ Bouldering at the climbing gym
 - 🩰 Exploring movement through contact improvisation dance
-- 🏃‍♀️ Training for a 10-mile race (April 2025) - Follow my progress on [Strava](https://strava.app.link/6u8wQkwu9Qb)!
+- 🏃‍♀️ Training for a 10-mile race (April 2025) - <a href="https://strava.app.link/6u8wQkwu9Qb" target="_blank">Follow my progress on Strava!</a>
 - 🧘‍♀️ Practicing hot yoga
 
 </details>

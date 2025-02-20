@@ -15,7 +15,7 @@
 <ul style="margin:0 0 5px;">
   <li>2024-2025: AI for Designing Materials Program Guest Speaker Committee Chair
     <ul>
-      <li>Invited speakers include: Shriti Badhvar (Entrepreneur), Gowoon Cheon (Research Scientist at Google DeepMind), Martin van der Schelling (PhD Student at Brown), and Abhijeet Gangan (PhD Student at UCLA)</li>
+      <li>Invited speakers include: Shruti Badhwar (Entrepreneur), Gowoon Cheon (Research Scientist at Google DeepMind), Martin van der Schelling (PhD Student at Brown), and Abhijeet Gangan (PhD Student at UCLA)</li>
       <li>If you're interested in sharing your experience with a diverse group of PhD students interested in AI and materials science, please reach out!</li>
     </ul>
   </li>

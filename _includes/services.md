@@ -17,7 +17,7 @@
     <details>
       <summary>👥 View Guest Speakers</summary>
       <div style="display: flex; gap: 10px; margin: 10px 0;">
-        <img src="assets/images/shruti.jpg" alt="Shruti Badhwar" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+        <img src="assets/images/avatar.png" alt="Shruti Badhwar" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
         <img src="assets/images/gowoon.jpg" alt="Gowoon Cheon" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
         <img src="assets/images/martin.jpg" alt="Martin van der Schelling" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
         <img src="assets/images/abhijeet.jpg" alt="Abhijeet Gangan" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">

@@ -13,6 +13,7 @@
 <h4 style="margin:0 10px 0;">Organizer and Volunteer Roles</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Sep 2025: Organizer for 2025 LLM Hackathon for Applications in Materials and Chemistry at Duke
   <li>2024-2025: AI for Designing Materials Program Guest Speaker Committee Chair
     <details>
       <summary>👥 View Previous Guest Speakers</summary>

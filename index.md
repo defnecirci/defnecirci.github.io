@@ -12,7 +12,7 @@ I am interested in the application of multimodal large language models (LLMs) in
 If you're interested in discussing research ideas or just want to chat, please contact me via [email](mailto:defne.circi@duke.edu)!
 
 ## News
-
+- **[May 2025]** I started my summer internship at IBM research in San Jose, California.
 - **[Dec 2024]** Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.
 - **[Dec 2024]** 'Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry' is on [Arxiv](https://arxiv.org/pdf/2411.15221).
 - **[Dec 2024]** Attended EMNLP 2024 in Miami.
@@ -31,7 +31,7 @@ If you're interested in discussing research ideas or just want to chat, please c
 When I'm not working on research, you can find me:
 - 🧗‍♀️ Bouldering at the climbing gym
 - 🩰 Exploring movement through contact improvisation dance
-- 🏃‍♀️ Training for a 10-mile race (April 2025) - <a href="https://strava.app.link/6u8wQkwu9Qb" target="_blank">Follow my progress on Strava!</a>
+- 🏃‍♀️ Training for a 10-mile race (November 2025) - <a href="https://strava.app.link/6u8wQkwu9Qb" target="_blank">Follow my progress on Strava!</a>
 - 🧘‍♀️ Practicing hot yoga
 
 </details>

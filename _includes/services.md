@@ -14,6 +14,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>Sep 2025: Organizer for the LLM Hackathon for App. in Materials and Chemistry at Duke
+      <a href="https://aim-nrt.pratt.duke.edu/news/duke-hosts-site-llm-hackathon-materials-chemistry" target="_blank">Check out our write-up about the event here</a>.
   <li>2024-2025: AI for Designing Materials Program Guest Speaker Committee Chair
     <details>
       <summary>👥 View Previous Guest Speakers</summary>

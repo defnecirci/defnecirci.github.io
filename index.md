@@ -13,7 +13,7 @@ If you're interested in discussing research ideas or just want to chat, please c
 
 ## News
 - **[Sep 2025]** “Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow” accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!
-- **[May 2025]** I started my summer internship at IBM research in San Jose, California.
+- **[May 2025]** I started my internship at IBM research in San Jose, California.
 - **[Dec 2024]** Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.
 - **[Dec 2024]** Attended EMNLP 2024 in Miami.
 - **[May 2024]** Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project [MaSTeA](https://x.com/DCirci/status/1788751982913589420), an interactive web app that enables easy testing of LLMs to evaluate their strengths and weaknesses across various subfields of materials science.

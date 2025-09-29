@@ -23,6 +23,7 @@
         <li>Gowoon Cheon (Research Scientist at Google DeepMind)</li>
         <li>Martin van der Schelling (PhD Student at Brown)</li>
         <li>Abhijeet Gangan (PhD Student at UCLA)</li>
+        <li>Tong Xie (Entrepreneur)</li>
       </ul>
     </details>
     <p>If you're interested in sharing your experience with a diverse group of PhD students interested in AI and materials science, please reach out!

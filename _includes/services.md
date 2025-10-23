@@ -27,5 +27,6 @@
       </ul>
     </details>
     <p>If you're interested in sharing your experience with a diverse group of PhD students interested in AI and materials science, please reach out!
+  <li>2024-2025: Library graduate advisory board member </li>
   <li>May 2024: Organizer for 2024 LLM Hackathon for Applications in Materials and Chemistry</li>
   <li>Dec 2023: Volunteer for NeurIPS Women in ML Workshop</li>

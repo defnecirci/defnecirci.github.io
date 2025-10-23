@@ -12,7 +12,7 @@ I am interested in the application of multimodal large language models (LLMs) in
 If you're interested in discussing research ideas or just want to chat, please contact me via [email](mailto:defne.circi@duke.edu)!
 
 ## News
-- **[Sep 2025]** “Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow” accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!
+- **[Sep 2025]** [Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow](https://openreview.net/forum?id=L4YOJpV3k3) accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!
 - **[May 2025]** Started my internship at IBM research in San Jose, California.
 - **[Dec 2024]** Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.
 - **[Dec 2024]** Attended EMNLP 2024 in Miami.

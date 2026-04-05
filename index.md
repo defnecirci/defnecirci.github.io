@@ -14,10 +14,10 @@ If you're interested in discussing research ideas or just want to chat, please c
 ## News
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
 <ul>
-  <li><b>[Apr 2026]</b> Co-organized the AI4MAT Workshop at ICLR 2026 in Brazil 🇧🇷.</li>
+  <li><b>[Apr 2026]</b> Co-organized the AI4MAT Workshop at ICLR 2026 in Rio de Janeiro, Brazil 🇧🇷.</li>
   <li><b>[Mar 2026]</b> Awarded the 2026–2027 Maclin Community Connections Grant to support organizing the 3rd Annual LLM Hackathon for Applications in Materials & Chemistry at Duke.</li>
   <li><b>[Dec 2025]</b> Gave an invited talk titled "Scientific Reasoning and Information Extraction with Language Models" at Middle East Technical University (METU).</li>
-  <li><b>[Sep 2025]</b> <a href="https://openreview.net/forum?id=L4YOJpV3k3">Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</a> accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!</li>
+  <li><b>[Dec 2025]</b> Presented <a href="https://openreview.net/forum?id=L4YOJpV3k3">Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</a> at Scaling Environments for Agents Workshop at NeurIPS 2025 in San Diego!</li>
   <li><b>[May 2025]</b> Started my internship at IBM research in San Jose, California.</li>
   <li><b>[Dec 2024]</b> Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.</li>
   <li><b>[Dec 2024]</b> Attended EMNLP 2024 in Miami.</li>

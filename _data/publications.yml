@@ -22,14 +22,6 @@ main:
   code: https://github.com/mismayil/morph-gen
   image: ./assets/img/teaser_example_1.png
 
-- title: Extracting Materials Science Data from Scientific Tables
-  authors: <strong>Circi, D.</strong>, Khalighinejad, G., Chen, A., Dhingra, B., & Brinson, L.
-  conference_short: Language + Molecules at ACL
-  conference: Language + Molecules Workshop at ACL, 2024
-  pdf: https://openreview.net/pdf?id=KzVJFYLCtt
-  code: https://github.com/defnecirci/MatSciTableExtract
-  image: ./assets/img/teaser_example_2.png
-
 - title: How Well Do Large Language Models Understand Tables in Materials Science?
   authors: <strong>Circi, D.</strong>, Khalighinejad, G., Chen, A., Dhingra, B., & Brinson, L.
   conference_short: IMMI
@@ -61,11 +53,3 @@ main:
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7999997/
   code: https://github.com/CompGenomeLab/SARS-CoV-2_Mutational_Profile
   image: ./assets/img/teaser_example_6.png
-
-- title: Phylogenetic Analysis of SARS-CoV-2 Genomes in Turkey
-  authors: Adebali, O., Bircan, A., <strong>Circi, D.</strong>, Islek, B., Kilinc, Z., Selcuk, B., & Turhan, B.
-  conference_short: Turkish Journal of Biology
-  conference: Turkish Journal of Biology, 2020
-  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7314511/
-  image: ./assets/img/teaser_example_7.png
-  news: https://www.youtube.com/watch?v=i1s6NCV9KYs

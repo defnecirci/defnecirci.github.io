@@ -1,8 +1,25 @@
 main:
+
+- title: Information Extraction from Diverse Charts in Materials Science
+   authors: Circi, D., Bradley, M., Blouir, S., Wilthan, B., Anastasopoulos, A., Shehu, A., Catherine, L., Dhingra, B.
+   conference_short: LM4Sci at COLM
+   conference: LLM for Scientific Discovery: Reasoning, Assistance, and Collaboration Workshop at COLM 2025
+   pdf: https://openreview.net/pdf?id=vj8dqNrzEe
+   image: ./assets/img/chart.png
+
+
+- title: Challenges and Vision For Standardization of Biopolymer Datasets for Machine Learning
+   authors: Lalonde, J. N., <strong>Circi, D.</strong>, Marrone, B. L., Zauscher, S., Catherine, L.
+   conference_short: AI4MAT at ICLR
+   conference: AI for Accelerated Materials Design at ICLR, 2026
+   pdf: https://openreview.net/attachment?id=JdabPmk2eM&name=pdf
+   image: ./assets/img/perspective.png
+
+
   - title: Evaluating Morphological Compositional Generalization in Large Language Models
     authors: Ismayilzada, M., <strong>Circi, D.</strong>, Saleva J., Sirin, H., Koksal, A., Dhingra, B., Bosselut A., Plas, L, Ataman, D.
     conference_short: NAACL
-    conference: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
+    conference: Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, 2025
     pdf: https://arxiv.org/pdf/2410.12656
     code: https://github.com/mismayil/morph-gen
     image: ./assets/img/teaser_example_1.png

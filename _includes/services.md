@@ -8,11 +8,14 @@
   <li>Computational Materials Science</li>
   <li>Integrating Materials and Manufacturing Innovation</li>
   <li>Data in Brief</li>
+  <li>COLM 2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Organizer and Volunteer Roles</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Apr 2026: Organizer for the AI4MAT Workshop at ICLR 2026. Check out the workshop details 
+      <a href="https://sites.google.com/view/ai4mat/home" target="_blank">here</a>.
   <li>Sep 2025: Organizer for the LLM Hackathon for App. in Materials and Chemistry at Duke. Check out our write-up about the event 
       <a href="https://aim-nrt.pratt.duke.edu/news/duke-hosts-site-llm-hackathon-materials-chemistry" target="_blank">here</a>.
   <li>2024-2025: AI for Designing Materials Program Guest Speaker Committee Chair

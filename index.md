@@ -13,22 +13,22 @@ If you're interested in discussing research ideas or just want to chat, please c
 
 ## News
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
-
-- **[Apr 2026]** Co-organized the AI4MAT Workshop at ICLR 2026 in Brazil 🇧🇷. 
-- **[Mar 2026]** Awarded the 2026–2027 Maclin Community Connections Grant to support organizing the 3rd Annual LLM Hackathon for Applications in Materials & Chemistry at Duke.
-- **[Dec 2025]** Gave an invited talk titled "Scientific Reasoning and Information Extraction with Language Models" at Middle East Technical University (METU).
-- **[Sep 2025]** [Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow](https://openreview.net/forum?id=L4YOJpV3k3) accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!
-- **[May 2025]** Started my internship at IBM research in San Jose, California.
-- **[Dec 2024]** Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.
-- **[Dec 2024]** Attended EMNLP 2024 in Miami.
-- **[May 2024]** Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project [MaSTeA](https://x.com/DCirci/status/1788751982913589420), an interactive web app that enables easy testing of LLMs to evaluate their strengths and weaknesses across various subfields of materials science.
-- **[Apr 2024]** Presented 'Using Large Language Models for Data Extraction from Tables in Materials Literature ' at the [SouthNLP Symposium](https://southnlp.github.io/southnlp2024/). You can find the poster [here](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-45.pdf).
-- **[Feb 2024]** Presented 'Using Large Language Models to Mine Materials Literature' at Materials Research Data Alliance (MARDA) Annual Meeting. The presentation is available on [YouTube](https://www.youtube.com/watch?v=3a4DfTXi5Js&t=758s).
-- **[Dec 2023]** Presented 'Retrieval of Synthesis Parameters of Polymer Nanocomposites Using LLMs' at [AI4MAT Workshop](https://sites.google.com/view/ai4mat/ai4mat-2023/accepted-work?authuser=0) at NeurIPS in New Orleans and [ML4Molecules Workshop](https://moleculediscovery.github.io/workshop2023/).
-- **[Oct 2023]** [Interviewed](https://www.youtube.com/watch?v=ex4b9qQdv_g&t=3s) by the Materials Research Data Alliance (MARDA) on building the future of materials research.
-- **[Nov 2023]** Attended [OpenAI Developers Conference](https://openai.com/index/announcing-openai-devday/) in San Francisco.
-- **[Aug 2022]** Started PhD at Duke with full-tuition and stipend support from [AI for Understanding and Designing Materials](https://aim-nrt.pratt.duke.edu/) program.
-
+<ul>
+  <li><b>[Apr 2026]</b> Co-organized the AI4MAT Workshop at ICLR 2026 in Brazil 🇧🇷.</li>
+  <li><b>[Mar 2026]</b> Awarded the 2026–2027 Maclin Community Connections Grant to support organizing the 3rd Annual LLM Hackathon for Applications in Materials & Chemistry at Duke.</li>
+  <li><b>[Dec 2025]</b> Gave an invited talk titled "Scientific Reasoning and Information Extraction with Language Models" at Middle East Technical University (METU).</li>
+  <li><b>[Sep 2025]</b> <a href="https://openreview.net/forum?id=L4YOJpV3k3">Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</a> accepted at Scaling Environments for Agents Workshop at NeurIPS 2025!</li>
+  <li><b>[May 2025]</b> Started my internship at IBM research in San Jose, California.</li>
+  <li><b>[Dec 2024]</b> Presented 'Information extraction from diverse materials science charts/plots' at MRS in Boston.</li>
+  <li><b>[Dec 2024]</b> Attended EMNLP 2024 in Miami.</li>
+  <li><b>[May 2024]</b> Won an Anthropic Award in 2024 LLMs for Materials Hackathon with the project <a href="https://x.com/DCirci/status/1788751982913589420">MaSTeA</a>, an interactive web app that enables easy testing of LLMs to evaluate their strengths and weaknesses across various subfields of materials science.</li>
+  <li><b>[Apr 2024]</b> Presented 'Using Large Language Models for Data Extraction from Tables in Materials Literature ' at the <a href="https://southnlp.github.io/southnlp2024/">SouthNLP Symposium</a>. Poster: <a href="https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-45.pdf">here</a>.</li>
+  <li><b>[Feb 2024]</b> Presented 'Using Large Language Models to Mine Materials Literature' at Materials Research Data Alliance (MARDA) Annual Meeting. Video: <a href="https://www.youtube.com/watch?v=3a4DfTXi5Js&t=758s">YouTube</a>.</li>
+  <li><b>[Dec 2023]</b> Presented 'Retrieval of Synthesis Parameters of Polymer Nanocomposites Using LLMs' at <a href="https://sites.google.com/view/ai4mat/ai4mat-2023/accepted-work?authuser=0">AI4MAT Workshop</a> at NeurIPS (New Orleans) and <a href="https://moleculediscovery.github.io/workshop2023/">ML4Molecules Workshop</a>.</li>
+  <li><b>[Oct 2023]</b> Interviewed by the Materials Research Data Alliance (MARDA) on building the future of materials research. <a href="https://www.youtube.com/watch?v=ex4b9qQdv_g&t=3s">Watch</a>.</li>
+  <li><b>[Nov 2023]</b> Attended <a href="https://openai.com/index/announcing-openai-devday/">OpenAI Developers Conference</a> in San Francisco.</li>
+  <li><b>[Aug 2022]</b> Started PhD at Duke with full-tuition and stipend support from <a href="https://aim-nrt.pratt.duke.edu/">AI for Understanding and Designing Materials</a> program.</li>
+</ul>
 </div>
 
 <details>

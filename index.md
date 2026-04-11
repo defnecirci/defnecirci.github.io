@@ -7,7 +7,8 @@ layout: homepage
 Currently, I am an AI Resident at Lila Sciences and a Ph.D. candidate at Duke University. I am very fortunate to be advised by Prof. [Cate Brinson](https://brinsonlab.pratt.duke.edu/). Prior to starting my PhD, I was an undergraduate student in materials science and computer science at Sabanci University.
 
 ## Research Interests
-I am interested in the application of multimodal large language models (LLMs) in science, with a focus on knowledge extraction, question answering, and reasoning from scientific literature. Currently, I am working on extracting complex information from diverse scientific data sources, including charts, tables, and text, and evaluating LLM performance in these tasks. My goal is to automate the extraction of insights from scientific articles at scale and build comprehensive knowledge graphs and databases to accelerate discoveries in materials science. Additionally, I am interested in applying machine learning to materials property prediction tasks.
+I am interested in multimodal AI systems for scientific reasoning and knowledge extraction, with a focus on autonomously interpreting diverse scientific data sources including charts, tables, figures, and text to structure knowledge in machine-understandable form. My current work spans developing and evaluating large language models and vision-language models for interpretable information extraction from scientific literature, as well as building tool-augmented agentic workflows for verifiable scientific reasoning. My goal is to unify these capabilities into scalable pipelines that power accelerated discovery in science.
+
 
 If you're interested in discussing research ideas or just want to chat, please contact me via [email](mailto:defne.circi@duke.edu)!
 
